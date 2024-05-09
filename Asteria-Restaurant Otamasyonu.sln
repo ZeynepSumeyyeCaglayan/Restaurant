@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asteria-Restaurant Otamasyonu", "Asteria-Restaurant Otamasyonu\Asteria-Restaurant Otamasyonu.csproj", "{77CB84AC-E5AE-45DA-B74C-57064F27AA3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77CB84AC-E5AE-45DA-B74C-57064F27AA3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77CB84AC-E5AE-45DA-B74C-57064F27AA3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77CB84AC-E5AE-45DA-B74C-57064F27AA3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77CB84AC-E5AE-45DA-B74C-57064F27AA3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {982C2719-9531-4393-B779-DB6303466C81}
+	EndGlobalSection
+EndGlobal
